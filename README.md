@@ -12,11 +12,7 @@ Part 2: Histograms
 2. Summarize your observations.
 Part 3: Understanding of various types of noise and filters
 
-
 Assignment 2 solves below problem:
-Warwick dataset for gland segmentation in Colon histology images in MICCAI’15 is available for open access at https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/.
-
-Assignment 3 is in folder EE20S051. Which solves below problem:
 Part 1: Denoising
 Denoise the image using appropriate filter.
 Summarize your observations as:
@@ -29,3 +25,7 @@ ii. After contrast enhancement, try to detect the edges of the sternum (crop the
 Part 3: Observe the application of Hough Transform
 1. Use the best contrast enhanced edge detected image from part 2 and apply Hough transform to locate the sternum.
 
+
+
+Assignment 3 is in folder EE20S051 and it solves below problem:
+Warwick dataset for gland segmentation in Colon histology images in MICCAI’15 is available for open access at https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/download/.
