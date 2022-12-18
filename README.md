@@ -1,6 +1,16 @@
 # Medical-Image-Analysis
 This repo contains Assignments of ED6001.
 Outer code files are of assignment 1 which solves below problem:
+Part 1: Geometric transforms
+For target to source mapping, use bilinear interpolation.
+1. Translate the image by tx = 5.5 and ty= 4.4 pixels
+2. In plane rotate the image about the image centre with an angle of 35° and -125°
+3. Scale the image by a factor of 0.4 and 1.4
+Summarize your observations.
+Part 2: Histograms
+1. Use the input image assigned to your roll number and try to enhance the contrast of the image using histogram equalization technique.
+2. Summarize your observations.
+Part 3: Understanding of various types of noise and filters
 
 
 Assignment 2 solves below problem:
